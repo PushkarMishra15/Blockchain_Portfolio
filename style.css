@@ -710,12 +710,12 @@ img {
   transform: translateX(.25rem);
 }
 
-.swiper-button-prev::after,
+/* .swiper-button-prev::after,
 .swiper-button-next::after {
   content: '';
 }
-
-.swiper-portfolio-icon {
+ */
+/* .swiper-portfolio-icon {
   font-size: 2rem;
   color: var(--first-color);
 }
@@ -730,12 +730,12 @@ img {
 
 .swiper-container-horizontal>.swiper-pagination-bullets {
   bottom: -2.5rem;
-}
+} */
 
-.swiper-pagination-bullet-active {
+/* .swiper-pagination-bullet-active {
   background-color: var(--first-color);
 }
-
+ */
 .swiper-button-prev,
 .swiper-button-next,
 .swiper-pagination-bullet {
